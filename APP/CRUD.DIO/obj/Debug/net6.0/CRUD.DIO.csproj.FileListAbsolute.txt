@@ -1,0 +1,15 @@
+/home/andre/Área de Trabalho/APP/CRUD.DIO/bin/Debug/net6.0/CRUD.DIO
+/home/andre/Área de Trabalho/APP/CRUD.DIO/bin/Debug/net6.0/CRUD.DIO.deps.json
+/home/andre/Área de Trabalho/APP/CRUD.DIO/bin/Debug/net6.0/CRUD.DIO.runtimeconfig.json
+/home/andre/Área de Trabalho/APP/CRUD.DIO/bin/Debug/net6.0/CRUD.DIO.dll
+/home/andre/Área de Trabalho/APP/CRUD.DIO/bin/Debug/net6.0/ref/CRUD.DIO.dll
+/home/andre/Área de Trabalho/APP/CRUD.DIO/bin/Debug/net6.0/CRUD.DIO.pdb
+/home/andre/Área de Trabalho/APP/CRUD.DIO/obj/Debug/net6.0/CRUD.DIO.csproj.AssemblyReference.cache
+/home/andre/Área de Trabalho/APP/CRUD.DIO/obj/Debug/net6.0/CRUD.DIO.GeneratedMSBuildEditorConfig.editorconfig
+/home/andre/Área de Trabalho/APP/CRUD.DIO/obj/Debug/net6.0/CRUD.DIO.AssemblyInfoInputs.cache
+/home/andre/Área de Trabalho/APP/CRUD.DIO/obj/Debug/net6.0/CRUD.DIO.AssemblyInfo.cs
+/home/andre/Área de Trabalho/APP/CRUD.DIO/obj/Debug/net6.0/CRUD.DIO.csproj.CoreCompileInputs.cache
+/home/andre/Área de Trabalho/APP/CRUD.DIO/obj/Debug/net6.0/CRUD.DIO.dll
+/home/andre/Área de Trabalho/APP/CRUD.DIO/obj/Debug/net6.0/ref/CRUD.DIO.dll
+/home/andre/Área de Trabalho/APP/CRUD.DIO/obj/Debug/net6.0/CRUD.DIO.pdb
+/home/andre/Área de Trabalho/APP/CRUD.DIO/obj/Debug/net6.0/CRUD.DIO.genruntimeconfig.cache
