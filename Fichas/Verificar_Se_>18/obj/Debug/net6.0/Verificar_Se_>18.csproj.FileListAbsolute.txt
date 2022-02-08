@@ -1,0 +1,15 @@
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Verificar_Se_>18/bin/Debug/net6.0/Verificar_Se_>18
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Verificar_Se_>18/bin/Debug/net6.0/Verificar_Se_>18.deps.json
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Verificar_Se_>18/bin/Debug/net6.0/Verificar_Se_>18.runtimeconfig.json
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Verificar_Se_>18/bin/Debug/net6.0/Verificar_Se_>18.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Verificar_Se_>18/bin/Debug/net6.0/ref/Verificar_Se_>18.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Verificar_Se_>18/bin/Debug/net6.0/Verificar_Se_>18.pdb
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Verificar_Se_>18/obj/Debug/net6.0/Verificar_Se_>18.csproj.AssemblyReference.cache
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Verificar_Se_>18/obj/Debug/net6.0/Verificar_Se_>18.GeneratedMSBuildEditorConfig.editorconfig
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Verificar_Se_>18/obj/Debug/net6.0/Verificar_Se_>18.AssemblyInfoInputs.cache
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Verificar_Se_>18/obj/Debug/net6.0/Verificar_Se_>18.AssemblyInfo.cs
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Verificar_Se_>18/obj/Debug/net6.0/Verificar_Se_>18.csproj.CoreCompileInputs.cache
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Verificar_Se_>18/obj/Debug/net6.0/Verificar_Se_>18.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Verificar_Se_>18/obj/Debug/net6.0/ref/Verificar_Se_>18.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Verificar_Se_>18/obj/Debug/net6.0/Verificar_Se_>18.pdb
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Verificar_Se_>18/obj/Debug/net6.0/Verificar_Se_>18.genruntimeconfig.cache

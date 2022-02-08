@@ -1,0 +1,15 @@
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Quadrado_Cubo_GFTStart4/bin/Debug/net6.0/Quadrado_Cubo_GFTStart4
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Quadrado_Cubo_GFTStart4/bin/Debug/net6.0/Quadrado_Cubo_GFTStart4.deps.json
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Quadrado_Cubo_GFTStart4/bin/Debug/net6.0/Quadrado_Cubo_GFTStart4.runtimeconfig.json
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Quadrado_Cubo_GFTStart4/bin/Debug/net6.0/Quadrado_Cubo_GFTStart4.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Quadrado_Cubo_GFTStart4/bin/Debug/net6.0/ref/Quadrado_Cubo_GFTStart4.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Quadrado_Cubo_GFTStart4/bin/Debug/net6.0/Quadrado_Cubo_GFTStart4.pdb
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Quadrado_Cubo_GFTStart4/obj/Debug/net6.0/Quadrado_Cubo_GFTStart4.csproj.AssemblyReference.cache
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Quadrado_Cubo_GFTStart4/obj/Debug/net6.0/Quadrado_Cubo_GFTStart4.GeneratedMSBuildEditorConfig.editorconfig
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Quadrado_Cubo_GFTStart4/obj/Debug/net6.0/Quadrado_Cubo_GFTStart4.AssemblyInfoInputs.cache
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Quadrado_Cubo_GFTStart4/obj/Debug/net6.0/Quadrado_Cubo_GFTStart4.AssemblyInfo.cs
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Quadrado_Cubo_GFTStart4/obj/Debug/net6.0/Quadrado_Cubo_GFTStart4.csproj.CoreCompileInputs.cache
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Quadrado_Cubo_GFTStart4/obj/Debug/net6.0/Quadrado_Cubo_GFTStart4.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Quadrado_Cubo_GFTStart4/obj/Debug/net6.0/ref/Quadrado_Cubo_GFTStart4.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Quadrado_Cubo_GFTStart4/obj/Debug/net6.0/Quadrado_Cubo_GFTStart4.pdb
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Quadrado_Cubo_GFTStart4/obj/Debug/net6.0/Quadrado_Cubo_GFTStart4.genruntimeconfig.cache

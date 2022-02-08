@@ -1,0 +1,15 @@
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/bin/Debug/net6.0/Fichas
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/bin/Debug/net6.0/Fichas.deps.json
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/bin/Debug/net6.0/Fichas.runtimeconfig.json
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/bin/Debug/net6.0/Fichas.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/bin/Debug/net6.0/ref/Fichas.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/bin/Debug/net6.0/Fichas.pdb
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/obj/Debug/net6.0/Fichas.csproj.AssemblyReference.cache
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/obj/Debug/net6.0/Fichas.GeneratedMSBuildEditorConfig.editorconfig
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/obj/Debug/net6.0/Fichas.AssemblyInfoInputs.cache
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/obj/Debug/net6.0/Fichas.AssemblyInfo.cs
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/obj/Debug/net6.0/Fichas.csproj.CoreCompileInputs.cache
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/obj/Debug/net6.0/Fichas.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/obj/Debug/net6.0/ref/Fichas.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/obj/Debug/net6.0/Fichas.pdb
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/obj/Debug/net6.0/Fichas.genruntimeconfig.cache

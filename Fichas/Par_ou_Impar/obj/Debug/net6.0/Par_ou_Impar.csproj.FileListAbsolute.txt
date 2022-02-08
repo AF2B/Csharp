@@ -1,0 +1,15 @@
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Par_ou_Impar/bin/Debug/net6.0/Par_ou_Impar
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Par_ou_Impar/bin/Debug/net6.0/Par_ou_Impar.deps.json
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Par_ou_Impar/bin/Debug/net6.0/Par_ou_Impar.runtimeconfig.json
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Par_ou_Impar/bin/Debug/net6.0/Par_ou_Impar.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Par_ou_Impar/bin/Debug/net6.0/ref/Par_ou_Impar.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Par_ou_Impar/bin/Debug/net6.0/Par_ou_Impar.pdb
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Par_ou_Impar/obj/Debug/net6.0/Par_ou_Impar.csproj.AssemblyReference.cache
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Par_ou_Impar/obj/Debug/net6.0/Par_ou_Impar.GeneratedMSBuildEditorConfig.editorconfig
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Par_ou_Impar/obj/Debug/net6.0/Par_ou_Impar.AssemblyInfoInputs.cache
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Par_ou_Impar/obj/Debug/net6.0/Par_ou_Impar.AssemblyInfo.cs
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Par_ou_Impar/obj/Debug/net6.0/Par_ou_Impar.csproj.CoreCompileInputs.cache
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Par_ou_Impar/obj/Debug/net6.0/Par_ou_Impar.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Par_ou_Impar/obj/Debug/net6.0/ref/Par_ou_Impar.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Par_ou_Impar/obj/Debug/net6.0/Par_ou_Impar.pdb
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Par_ou_Impar/obj/Debug/net6.0/Par_ou_Impar.genruntimeconfig.cache

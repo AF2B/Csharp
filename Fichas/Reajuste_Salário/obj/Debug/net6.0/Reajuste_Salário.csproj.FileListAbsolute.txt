@@ -1,0 +1,15 @@
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Reajuste_Salário/bin/Debug/net6.0/Reajuste_Salário
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Reajuste_Salário/bin/Debug/net6.0/Reajuste_Salário.deps.json
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Reajuste_Salário/bin/Debug/net6.0/Reajuste_Salário.runtimeconfig.json
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Reajuste_Salário/bin/Debug/net6.0/Reajuste_Salário.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Reajuste_Salário/bin/Debug/net6.0/ref/Reajuste_Salário.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Reajuste_Salário/bin/Debug/net6.0/Reajuste_Salário.pdb
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Reajuste_Salário/obj/Debug/net6.0/Reajuste_Salário.csproj.AssemblyReference.cache
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Reajuste_Salário/obj/Debug/net6.0/Reajuste_Salário.GeneratedMSBuildEditorConfig.editorconfig
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Reajuste_Salário/obj/Debug/net6.0/Reajuste_Salário.AssemblyInfoInputs.cache
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Reajuste_Salário/obj/Debug/net6.0/Reajuste_Salário.AssemblyInfo.cs
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Reajuste_Salário/obj/Debug/net6.0/Reajuste_Salário.csproj.CoreCompileInputs.cache
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Reajuste_Salário/obj/Debug/net6.0/Reajuste_Salário.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Reajuste_Salário/obj/Debug/net6.0/ref/Reajuste_Salário.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Reajuste_Salário/obj/Debug/net6.0/Reajuste_Salário.pdb
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/Reajuste_Salário/obj/Debug/net6.0/Reajuste_Salário.genruntimeconfig.cache

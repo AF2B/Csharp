@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Soma_Pares_Consecutivos_GFTStart4/1.0.0": {
+        "runtime": {
+          "Soma_Pares_Consecutivos_GFTStart4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Soma_Pares_Consecutivos_GFTStart4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
