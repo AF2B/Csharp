@@ -1,18 +1,4 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Fichas" />
-
-  &#xa0;
-
-  <!-- <a href="https://fichas.netlify.com">Demo</a> -->
-</div>
-
 <h1 align="center">Fichas</h1>
-
-<p align="center">
-<img alt="Principal linguagem do projeto" src="https://docs.microsoft.com/pt-br/dotnet/csharp/">
-
-</p>
-
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;</a> 
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
