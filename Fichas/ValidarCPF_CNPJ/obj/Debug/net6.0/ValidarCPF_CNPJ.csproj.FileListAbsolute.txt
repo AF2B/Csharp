@@ -1,0 +1,15 @@
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/ValidarCPF_CNPJ/obj/Debug/net6.0/ValidarCPF_CNPJ.csproj.AssemblyReference.cache
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/ValidarCPF_CNPJ/obj/Debug/net6.0/ValidarCPF_CNPJ.GeneratedMSBuildEditorConfig.editorconfig
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/ValidarCPF_CNPJ/obj/Debug/net6.0/ValidarCPF_CNPJ.AssemblyInfoInputs.cache
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/ValidarCPF_CNPJ/obj/Debug/net6.0/ValidarCPF_CNPJ.AssemblyInfo.cs
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/ValidarCPF_CNPJ/obj/Debug/net6.0/ValidarCPF_CNPJ.csproj.CoreCompileInputs.cache
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/ValidarCPF_CNPJ/bin/Debug/net6.0/ValidarCPF_CNPJ
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/ValidarCPF_CNPJ/bin/Debug/net6.0/ValidarCPF_CNPJ.deps.json
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/ValidarCPF_CNPJ/bin/Debug/net6.0/ValidarCPF_CNPJ.runtimeconfig.json
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/ValidarCPF_CNPJ/bin/Debug/net6.0/ValidarCPF_CNPJ.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/ValidarCPF_CNPJ/bin/Debug/net6.0/ref/ValidarCPF_CNPJ.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/ValidarCPF_CNPJ/bin/Debug/net6.0/ValidarCPF_CNPJ.pdb
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/ValidarCPF_CNPJ/obj/Debug/net6.0/ValidarCPF_CNPJ.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/ValidarCPF_CNPJ/obj/Debug/net6.0/ref/ValidarCPF_CNPJ.dll
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/ValidarCPF_CNPJ/obj/Debug/net6.0/ValidarCPF_CNPJ.pdb
+/home/andre/Área de Trabalho/Github/Csharp/Fichas/ValidarCPF_CNPJ/obj/Debug/net6.0/ValidarCPF_CNPJ.genruntimeconfig.cache
